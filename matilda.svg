@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="#eee"/>
+<rect x="60" width="80" height="200" fill="#fff"/>
+<g fill="none">
+        <g stroke-width="20" >
+                <g  stroke="#dda">
+                        <path d="M 110,-10 Q -10,100 110,210"/>
+                        <path d="M 90,-10 Q 210,100 90,210"/>
+                </g>
+                <g stroke="#ddd" >
+                        <path d="M 85,-10 Q -25,100 85,210"/>
+                        <path d="M 115,-10 Q 225,100 115,210" />
+                </g>
+                <g stroke="#fff" >
+                        <path d="M 60,-10 Q -40,100 60,210"/>
+                        <path d="M 140,-10 Q 240,100 140,210" />
+                </g>
+        </g>
+        <g stroke-width="2" >
+                <g stroke="#880">
+                        <path d="M 110,-10 Q -10,100 110,210" />
+                        <path d="M 90,-10 Q 210,100 90,210" />
+                </g>
+                <g stroke="#ff0" >
+                        <path d="M 85,-10 Q -25,100 85,210"/>
+                        <path d="M 115,-10 Q 225,100 115,210" />
+                </g>
+                <g stroke="#f80" >
+                        <path d="M 60,-10 Q -40,100 60,210"/>
+                        <path d="M 140,-10 Q 240,100 140,210" />
+                </g>
+        </g>
+</g>
+</svg>
