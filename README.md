@@ -5,7 +5,7 @@ Cool wallpaper
   For repeating patterns.  
 
 * matilda.svg:  
-  For when you want to process the size etc. yourself. It is necessary to remove the protruding part. Delete the part that extends beyond 100x100px.  
+  For when you want to process the size etc. yourself. It is necessary to remove the protruding part. Delete the part that extends beyond 200x200px.  
 
 * matildaFHD.png:  
   Ordinary wallpaper
